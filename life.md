@@ -2,12 +2,12 @@
 ===============
 
 - 08/01/1986 Born in Aveiro, Portugal
-- 1992-1996 Primary School
-- 1996-2001 Middle School
-- 2001-2005 Secondary School
-- 08/2005-07/2011 University - [UA](http://www.ua.pt)
-- 02/2008-05/2009 Junior Researcher at IT/PT Inovação
-- 08/2010-07/2011 MsC thesis: Context Storage using NoSQL
+- 09/1992-06/1996 Primary School
+- 09/1996-06/2001 Middle School
+- 09/2001-06/2005 Secondary School
+- 09/2005-07/2011 University - UA
+- 02/2008-05/2009 Junior Researcher - IT/PT Inovação
+- 09/2010-07/2011 MsC thesis: Context Storage using NoSQL
 - 07/06/2011 Got married
 - 25/07/2011 Moved to Heidelberg, Germany
 - 08/2011-07/2013 Software Engineer - NEC
